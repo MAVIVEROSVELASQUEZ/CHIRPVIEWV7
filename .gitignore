@@ -1,0 +1,7 @@
+﻿.venv/
+out/
+*.seg
+*.odc
+*.csv
+*.log
+__pycache__/
