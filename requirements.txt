@@ -1,0 +1,9 @@
+﻿obspy
+numpy
+pandas
+matplotlib
+pyproj
+folium
+geopandas
+shapely
+pyogrio
